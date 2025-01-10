@@ -1,0 +1,16 @@
+  cgltf - a single-file glTF 2.0 parser written in C99.
+ 
+  Version: 1.14
+ 
+  Website: https://github.com/jkuhlmann/cgltf
+ 
+  Distributed under the MIT License, see notice at the end of this file.
+ 
+  Building:
+  Include this file where you need the struct and function
+  declarations. Have exactly one source file where you define
+  `CGLTF_IMPLEMENTATION` before including this file to get the
+  function definitions.
+ 
+ 
+ 
